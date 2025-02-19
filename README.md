@@ -1,47 +1,39 @@
-Got it! Here's a clean and professional README for your project:  
+# STUDIO-PHA5E Header Clone  
 
----
-
-# STUDIO-PHA5E  
-
-A modern, animated website showcasing seamless UI interactions using **ReactJS, Tailwind CSS, and Framer Motion**.  
+This project is a clone of the header section from the STUDIO PHA5E website, built using HTML, CSS, JavaScript, Locomotive Scroll, and GSAP animations. The goal was to replicate the smooth scrolling, typography, and interactive elements of the original design while ensuring responsiveness and a smooth user experience.  
 
 ## Features  
-- Smooth animations powered by Framer Motion  
-- Responsive design with Tailwind CSS  
-- Modern UI inspired by creative portfolio and agency websites  
-- Optimized performance for a fast and smooth user experience  
 
-## Tech Stack  
-- ReactJS – Component-based UI development  
-- Tailwind CSS – Utility-first styling for rapid design  
-- Framer Motion – Fluid animations and transitions  
+- Custom cursor interaction for an enhanced user experience  
+- Smooth scrolling implemented using Locomotive Scroll  
+- GSAP animations for engaging effects and transitions  
+- Responsive navigation bar with a language switcher  
+- Hero section with dynamic images showcasing various concepts  
 
-## Live Demo  
-[STUDIO-PHA5E Live](https://ultron1507.github.io/STUDIO-PHA5E/)  
+## Technologies Used  
+
+- HTML5 for structuring the webpage  
+- CSS3 for styling and layout, including custom fonts and animations  
+- JavaScript (ES6) for interactivity and animations  
+- GSAP (GreenSock Animation Platform) for scroll-based animations and effects  
+- Locomotive Scroll for smooth scrolling  
 
 ## Setup & Installation  
-1. Clone the repository:  
-   ```bash
+
+1. Clone this repository:  
+   ```sh
    git clone https://github.com/Ultron1507/STUDIO-PHA5E.git
    ```
 2. Navigate to the project folder:  
-   ```bash
+   ```sh
    cd STUDIO-PHA5E
    ```
-3. Install dependencies:  
-   ```bash
-   npm install
-   ```
-4. Start the development server:  
-   ```bash
-   npm run dev
-   ```  
+3. Open `index.html` in a browser or use Live Server for the best experience.  
 
-## Future Improvements  
-- Adding dark mode  
-- Enhancing mobile experience  
-- Integrating a CMS for content management  
+## Live Demo  
+
+View the project here:  
+[STUDIO PHA5E Clone](https://ultron1507.github.io/STUDIO-PHA5E/)  
 
 ---
 
